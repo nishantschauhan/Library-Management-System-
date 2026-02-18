@@ -44,3 +44,10 @@ Includes:
 Getters & Setters
 
 Method to display book information
+
+**🖥️ How to Run the Project**
+**1️⃣ Compile**
+g++ main.cpp -o bookshop
+
+**2️⃣ Run**
+./bookshop
