@@ -1,10 +1,10 @@
-📚 Bookshop Management System (C++)
+**📚 Bookshop Management System (C++)**
 
 A simple console-based Bookshop Management System built using C++ and Object-Oriented Programming (OOP) principles.
 
 This project allows users to manage books in a bookshop through a menu-driven interface.
 
-🚀 Features
+**🚀 Features**
 
 ✅ Add new books
 
