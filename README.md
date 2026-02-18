@@ -1,5 +1,6 @@
+--------------------------------------------------------------------------------------------------------------------------------------
 **📚 Bookshop Management System (C++)**
-
+--------------------------------------------------------------------------------------------------------------------------------------
 A simple console-based Bookshop Management System built using C++ and Object-Oriented Programming (OOP) principles.
 
 This project allows users to manage books in a bookshop through a menu-driven interface.
@@ -46,7 +47,9 @@ Getters & Setters
 Method to display book information
 
 **🖥️ How to Run the Project**
+
 **1️⃣ Compile**
+
 g++ main.cpp -o bookshop
 
 **2️⃣ Run**
